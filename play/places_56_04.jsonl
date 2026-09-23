@@ -64,3 +64,6 @@
 {"n":64,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, north court. arc left open. 8 steps. The drum stays for the start."}
 {"n":65,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the badge door at Ward gate. Nobody past the north court. We start in 2 steps. Arc on the left lane, open."}
 {"n":66,"kind":"place","name":"Ward gate north court","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Ward gate north court. Matt keeps the badge door for the start. 3 steps, arc on the left lane, open."}
+{"n":67,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, north court. arc left open. 4 steps. The badge door stays for the start."}
+{"n":68,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the badge door at Ward gate. Nobody past the north court. We start in 5 steps. Arc on the left lane, open."}
+{"n":69,"kind":"place","name":"Ward gate north court","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Ward gate north court. Nia keeps the badge door for the start. 6 steps, arc on the left lane, open."}
