@@ -676,3 +676,6 @@
 {"n":676,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, east court. arc left open. 7 steps. The shutter stays for the start."}
 {"n":677,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the shutter at Switchyard. Nobody past the east court. We start in 8 steps. Arc on the left lane, open."}
 {"n":678,"kind":"place","name":"Switchyard east court","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Switchyard east court. Matt keeps the shutter for the start. 2 steps, arc on the left lane, open."}
+{"n":679,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, east court. arc left open. 3 steps. The shutter stays for the start."}
+{"n":680,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the shutter at Switchyard. Nobody past the east court. We start in 4 steps. Arc on the left lane, open."}
+{"n":681,"kind":"place","name":"Switchyard east court","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"Switchyard east court. Nia keeps the shutter for the start. 5 steps, arc on the left lane, open."}
