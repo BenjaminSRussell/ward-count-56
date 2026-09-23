@@ -522,3 +522,6 @@
 {"n":522,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the rope at Clinic roof. Nobody past the north court. We start in 5 steps. Arc on the left lane, open."}
 {"n":523,"kind":"place","name":"Clinic roof north court","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Clinic roof north court. Bess keeps the rope for the start. 6 steps, arc on the left lane, open."}
 {"n":524,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, north court. arc left open. 7 steps. The rope stays for the start."}
+{"n":525,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the rope at Switchyard. Nobody past the north court. We start in 8 steps. Arc on the left lane, open."}
+{"n":526,"kind":"place","name":"Switchyard north court","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Switchyard north court. Matt keeps the rope for the start. 2 steps, arc on the left lane, open."}
+{"n":527,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, north court. arc left open. 3 steps. The rope stays for the start."}
