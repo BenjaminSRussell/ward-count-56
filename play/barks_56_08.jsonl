@@ -59,3 +59,6 @@
 {"n":59,"kind":"place","name":"Clinic roof west escape","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Clinic roof west escape. Bess keeps the drum for the start. 6 steps, arc on the left lane, open."}
 {"n":60,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, west escape. arc left open. 7 steps. The drum stays for the start."}
 {"n":61,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the drum at Switchyard. Nobody past the west escape. We start in 8 steps. Arc on the left lane, open."}
+{"n":62,"kind":"place","name":"Switchyard west escape","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Switchyard west escape. Matt keeps the drum for the start. 2 steps, arc on the left lane, open."}
+{"n":63,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, west escape. arc left open. 3 steps. The drum stays for the start."}
+{"n":64,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the drum at Switchyard. Nobody past the west escape. We start in 4 steps. Arc on the left lane, open."}
