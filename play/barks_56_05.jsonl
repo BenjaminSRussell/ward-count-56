@@ -557,3 +557,6 @@
 {"n":557,"kind":"place","name":"Drydock south court","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Drydock south court. Nia keeps the rope for the start. 3 steps, arc on the left lane, open."}
 {"n":558,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, south court. arc left open. 4 steps. The rope stays for the start."}
 {"n":559,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the rope at Drydock. Nobody past the south court. We start in 5 steps. Arc on the left lane, open."}
+{"n":560,"kind":"place","name":"Drydock south court","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Drydock south court. Ivo keeps the rope for the start. 6 steps, arc on the left lane, open."}
+{"n":561,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, south court. arc left open. 7 steps. The rope stays for the start."}
+{"n":562,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the rope at Drydock. Nobody past the south court. We start in 8 steps. Arc on the left lane, open."}
