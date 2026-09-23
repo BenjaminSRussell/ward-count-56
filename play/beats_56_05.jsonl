@@ -427,3 +427,6 @@
 {"n":427,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the rope at Kessler alley. Nobody past the south court. We start in 6 steps. Arc on the left lane, open."}
 {"n":428,"kind":"place","name":"Kessler alley south court","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Kessler alley south court. Ivo keeps the rope for the start. 7 steps, arc on the left lane, open."}
 {"n":429,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, south court. arc left open. 8 steps. The rope stays for the start."}
+{"n":430,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the rope at Kessler alley. Nobody past the south court. We start in 2 steps. Arc on the left lane, open."}
+{"n":431,"kind":"place","name":"Kessler alley south court","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Kessler alley south court. Bess keeps the rope for the start. 3 steps, arc on the left lane, open."}
+{"n":432,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, south court. arc left open. 4 steps. The rope stays for the start."}
