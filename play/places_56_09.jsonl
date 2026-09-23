@@ -26,3 +26,6 @@
 {"n":26,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Last Light, east escape. arc left open. 7 steps. The crate stays for the start."}
 {"n":27,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the crate at Last Light. Nobody past the east escape. We start in 8 steps. Arc on the left lane, open."}
 {"n":28,"kind":"place","name":"Last Light east escape","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Last Light east escape. Ivo keeps the crate for the start. 2 steps, arc on the left lane, open."}
+{"n":29,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Last Light, east escape. arc left open. 3 steps. The crate stays for the start."}
+{"n":30,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the crate at Last Light. Nobody past the east escape. We start in 4 steps. Arc on the left lane, open."}
+{"n":31,"kind":"place","name":"Last Light east escape","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Last Light east escape. Bess keeps the crate for the start. 5 steps, arc on the left lane, open."}
