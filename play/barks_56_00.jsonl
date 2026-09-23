@@ -691,3 +691,6 @@
 {"n":691,"kind":"place","name":"Drydock east court","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Drydock east court. Bess keeps the hydrant for the start. 2 steps, arc on the left lane, open."}
 {"n":692,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, east court. arc left open. 3 steps. The hydrant stays for the start."}
 {"n":693,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the hydrant at High line. Nobody past the east court. We start in 4 steps. Arc on the left lane, open."}
+{"n":694,"kind":"place","name":"High line east court","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"High line east court. Matt keeps the hydrant for the start. 5 steps, arc on the left lane, open."}
+{"n":695,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, east court. arc left open. 6 steps. The hydrant stays for the start."}
+{"n":696,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the hydrant at High line. Nobody past the east court. We start in 7 steps. Arc on the left lane, open."}
