@@ -912,3 +912,6 @@
 {"n":912,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the crate at Stockyard fence. Nobody past the east court. We start in 6 steps. Arc on the left lane, open."}
 {"n":913,"kind":"place","name":"Stockyard fence east court","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Stockyard fence east court. Nia keeps the crate for the start. 7 steps, arc on the left lane, open."}
 {"n":914,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, east court. arc left open. 8 steps. The crate stays for the start."}
+{"n":915,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the crate at Stockyard fence. Nobody past the east court. We start in 2 steps. Arc on the left lane, open."}
+{"n":916,"kind":"place","name":"Stockyard fence east court","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Stockyard fence east court. Ivo keeps the crate for the start. 3 steps, arc on the left lane, open."}
+{"n":917,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, east court. arc left open. 4 steps. The crate stays for the start."}
