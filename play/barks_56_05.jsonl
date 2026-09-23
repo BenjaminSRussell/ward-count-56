@@ -884,3 +884,6 @@
 {"n":884,"kind":"place","name":"Switchyard south court","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Switchyard south court. Ivo keeps the awning for the start. 8 steps, arc on the left lane, open."}
 {"n":885,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, south court. arc left open. 2 steps. The awning stays for the start."}
 {"n":886,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the awning at Switchyard. Nobody past the south court. We start in 3 steps. Arc on the left lane, open."}
+{"n":887,"kind":"place","name":"Switchyard south court","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Switchyard south court. Bess keeps the awning for the start. 4 steps, arc on the left lane, open."}
+{"n":888,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, south court. arc left open. 5 steps. The awning stays for the start."}
+{"n":889,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the awning at Drydock. Nobody past the south court. We start in 6 steps. Arc on the left lane, open."}
