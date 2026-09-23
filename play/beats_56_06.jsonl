@@ -435,3 +435,6 @@
 {"n":435,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the plywood at Kessler alley. Nobody past the west escape. We start in 6 steps. Arc on the left lane, open."}
 {"n":436,"kind":"place","name":"Kessler alley west escape","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Kessler alley west escape. Ivo keeps the plywood for the start. 7 steps, arc on the left lane, open."}
 {"n":437,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, west escape. arc left open. 8 steps. The plywood stays for the start."}
+{"n":438,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the plywood at Kessler alley. Nobody past the west escape. We start in 2 steps. Arc on the left lane, open."}
+{"n":439,"kind":"place","name":"Kessler alley west escape","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Kessler alley west escape. Bess keeps the plywood for the start. 3 steps, arc on the left lane, open."}
+{"n":440,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, west escape. arc left open. 4 steps. The plywood stays for the start."}
