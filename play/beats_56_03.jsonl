@@ -807,3 +807,6 @@
 {"n":807,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the awning at Mast yard. Nobody past the north court. We start in 3 steps. Arc on the left lane, open."}
 {"n":808,"kind":"place","name":"Mast yard north court","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Mast yard north court. Ivo keeps the awning for the start. 4 steps, arc on the left lane, open."}
 {"n":809,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, north court. arc left open. 5 steps. The awning stays for the start."}
+{"n":810,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the awning at Mast yard. Nobody past the north court. We start in 6 steps. Arc on the left lane, open."}
+{"n":811,"kind":"place","name":"Mast yard north court","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Mast yard north court. Bess keeps the awning for the start. 7 steps, arc on the left lane, open."}
+{"n":812,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, north court. arc left open. 8 steps. The awning stays for the start."}
