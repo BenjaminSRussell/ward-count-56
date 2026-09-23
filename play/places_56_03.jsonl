@@ -92,3 +92,6 @@
 {"n":92,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, north court. arc left open. 2 steps. The lamp stays for the start."}
 {"n":93,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the lamp at Stockyard fence. Nobody past the north court. We start in 3 steps. Arc on the left lane, open."}
 {"n":94,"kind":"place","name":"Stockyard fence north court","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Stockyard fence north court. Matt keeps the lamp for the start. 4 steps, arc on the left lane, open."}
+{"n":95,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, north court. arc left open. 5 steps. The lamp stays for the start."}
+{"n":96,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the lamp at Stockyard fence. Nobody past the north court. We start in 6 steps. Arc on the left lane, open."}
+{"n":97,"kind":"place","name":"Stockyard fence north court","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Stockyard fence north court. Nia keeps the lamp for the start. 7 steps, arc on the left lane, open."}
