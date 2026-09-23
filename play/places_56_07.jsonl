@@ -67,3 +67,6 @@
 {"n":67,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, west escape. arc left open. 8 steps. The crate stays for the start."}
 {"n":68,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the crate at Drydock. Nobody past the west escape. We start in 2 steps. Arc on the left lane, open."}
 {"n":69,"kind":"place","name":"Drydock west escape","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Drydock west escape. Nia keeps the crate for the start. 3 steps, arc on the left lane, open."}
+{"n":70,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, west escape. arc left open. 4 steps. The crate stays for the start."}
+{"n":71,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the crate at Drydock. Nobody past the west escape. We start in 5 steps. Arc on the left lane, open."}
+{"n":72,"kind":"place","name":"Drydock west escape","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Drydock west escape. Ivo keeps the crate for the start. 6 steps, arc on the left lane, open."}
