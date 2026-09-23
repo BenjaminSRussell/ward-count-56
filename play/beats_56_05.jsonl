@@ -547,3 +547,6 @@
 {"n":547,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the rope at Switchyard. Nobody past the south court. We start in 7 steps. Arc on the left lane, open."}
 {"n":548,"kind":"place","name":"Switchyard south court","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Switchyard south court. Ivo keeps the rope for the start. 8 steps, arc on the left lane, open."}
 {"n":549,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, south court. arc left open. 2 steps. The rope stays for the start."}
+{"n":550,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the rope at Switchyard. Nobody past the south court. We start in 3 steps. Arc on the left lane, open."}
+{"n":551,"kind":"place","name":"Switchyard south court","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Switchyard south court. Bess keeps the rope for the start. 4 steps, arc on the left lane, open."}
+{"n":552,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, south court. arc left open. 5 steps. The rope stays for the start."}
