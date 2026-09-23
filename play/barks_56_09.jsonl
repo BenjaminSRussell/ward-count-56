@@ -877,3 +877,6 @@
 {"n":877,"kind":"place","name":"South stair east escape","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"South stair east escape. Nia keeps the awning for the start. 4 steps, arc on the left lane, open."}
 {"n":878,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, east escape. arc left open. 5 steps. The awning stays for the start."}
 {"n":879,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the awning at South stair. Nobody past the east escape. We start in 6 steps. Arc on the left lane, open."}
+{"n":880,"kind":"place","name":"South stair east escape","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"South stair east escape. Ivo keeps the awning for the start. 7 steps, arc on the left lane, open."}
+{"n":881,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, east escape. arc left open. 8 steps. The awning stays for the start."}
+{"n":882,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the awning at South stair. Nobody past the east escape. We start in 2 steps. Arc on the left lane, open."}
