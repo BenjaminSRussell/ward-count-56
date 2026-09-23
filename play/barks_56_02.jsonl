@@ -803,3 +803,6 @@
 {"n":803,"kind":"place","name":"Mast yard north court","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Mast yard north court. Bess keeps the barrel for the start. 7 steps, arc on the left lane, open."}
 {"n":804,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, north court. arc left open. 8 steps. The barrel stays for the start."}
 {"n":805,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the barrel at Last Light. Nobody past the north court. We start in 2 steps. Arc on the left lane, open."}
+{"n":806,"kind":"place","name":"Last Light north court","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Last Light north court. Matt keeps the barrel for the start. 3 steps, arc on the left lane, open."}
+{"n":807,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, north court. arc left open. 4 steps. The barrel stays for the start."}
+{"n":808,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the barrel at Last Light. Nobody past the north court. We start in 5 steps. Arc on the left lane, open."}
