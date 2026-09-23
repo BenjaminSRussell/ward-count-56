@@ -447,3 +447,6 @@
 {"n":447,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, south court. arc left open. 5 steps. The rope stays for the start."}
 {"n":448,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the rope at Stockyard fence. Nobody past the south court. We start in 6 steps. Arc on the left lane, open."}
 {"n":449,"kind":"place","name":"Stockyard fence south court","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Stockyard fence south court. Nia keeps the rope for the start. 7 steps, arc on the left lane, open."}
+{"n":450,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, south court. arc left open. 8 steps. The rope stays for the start."}
+{"n":451,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the rope at Stockyard fence. Nobody past the south court. We start in 2 steps. Arc on the left lane, open."}
+{"n":452,"kind":"place","name":"Stockyard fence south court","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Stockyard fence south court. Ivo keeps the rope for the start. 3 steps, arc on the left lane, open."}
