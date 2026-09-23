@@ -172,3 +172,6 @@
 {"n":172,"kind":"place","name":"the Underpass east escape","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"the Underpass east escape. Ivo keeps the lamp for the start. 6 steps, arc on the left lane, open."}
 {"n":173,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, east escape. arc left open. 7 steps. The lamp stays for the start."}
 {"n":174,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the lamp at the Underpass. Nobody past the east escape. We start in 8 steps. Arc on the left lane, open."}
+{"n":175,"kind":"place","name":"the Underpass east escape","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the Underpass east escape. Bess keeps the lamp for the start. 2 steps, arc on the left lane, open."}
+{"n":176,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, east escape. arc left open. 3 steps. The lamp stays for the start."}
+{"n":177,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the lamp at Mast yard. Nobody past the east escape. We start in 4 steps. Arc on the left lane, open."}
