@@ -187,3 +187,6 @@
 {"n":187,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, east court. arc left open. 8 steps. The lamp stays for the start."}
 {"n":188,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the lamp at Drydock. Nobody past the east court. We start in 2 steps. Arc on the left lane, open."}
 {"n":189,"kind":"place","name":"Drydock east court","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Drydock east court. Nia keeps the lamp for the start. 3 steps, arc on the left lane, open."}
+{"n":190,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, east court. arc left open. 4 steps. The lamp stays for the start."}
+{"n":191,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the lamp at Drydock. Nobody past the east court. We start in 5 steps. Arc on the left lane, open."}
+{"n":192,"kind":"place","name":"Drydock east court","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Drydock east court. Ivo keeps the lamp for the start. 6 steps, arc on the left lane, open."}
