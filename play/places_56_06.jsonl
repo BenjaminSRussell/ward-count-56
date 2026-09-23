@@ -317,3 +317,6 @@
 {"n":317,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, south court. arc left open. 7 steps. The radio coil stays for the start."}
 {"n":318,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the radio coil at the Underpass. Nobody past the south court. We start in 8 steps. Arc on the left lane, open."}
 {"n":319,"kind":"place","name":"the Underpass south court","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the Underpass south court. Bess keeps the radio coil for the start. 2 steps, arc on the left lane, open."}
+{"n":320,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, south court. arc left open. 3 steps. The radio coil stays for the start."}
+{"n":321,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the radio coil at Mast yard. Nobody past the south court. We start in 4 steps. Arc on the left lane, open."}
+{"n":322,"kind":"place","name":"Mast yard south court","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Mast yard south court. Matt keeps the radio coil for the start. 5 steps, arc on the left lane, open."}
