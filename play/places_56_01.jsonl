@@ -880,3 +880,6 @@
 {"n":880,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, east court. arc left open. 8 steps. The awning stays for the start."}
 {"n":881,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the drum at Ward gate. Nobody past the east court. We start in 2 steps. Arc on the left lane, open."}
 {"n":882,"kind":"place","name":"Ward gate east court","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Ward gate east court. Matt keeps the drum for the start. 3 steps, arc on the left lane, open."}
+{"n":883,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, east court. arc left open. 4 steps. The drum stays for the start."}
+{"n":884,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the drum at Ward gate. Nobody past the east court. We start in 5 steps. Arc on the left lane, open."}
+{"n":885,"kind":"place","name":"Ward gate east court","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Ward gate east court. Nia keeps the drum for the start. 6 steps, arc on the left lane, open."}
