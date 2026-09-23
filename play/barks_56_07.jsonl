@@ -432,3 +432,6 @@
 {"n":432,"kind":"place","name":"Ward gate west escape","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Ward gate west escape. Ivo keeps the rope for the start. 2 steps, arc on the left lane, open."}
 {"n":433,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, west escape. arc left open. 3 steps. The rope stays for the start."}
 {"n":434,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the rope at Ward gate. Nobody past the west escape. We start in 4 steps. Arc on the left lane, open."}
+{"n":435,"kind":"place","name":"Ward gate west escape","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Ward gate west escape. Bess keeps the rope for the start. 5 steps, arc on the left lane, open."}
+{"n":436,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, west escape. arc left open. 6 steps. The rope stays for the start."}
+{"n":437,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the rope at Kessler alley. Nobody past the west escape. We start in 7 steps. Arc on the left lane, open."}
