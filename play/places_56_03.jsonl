@@ -473,3 +473,6 @@
 {"n":473,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, north court. arc left open. 5 steps. The rope stays for the start."}
 {"n":474,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the rope at Mast yard. Nobody past the north court. We start in 6 steps. Arc on the left lane, open."}
 {"n":475,"kind":"place","name":"Mast yard north court","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Mast yard north court. Bess keeps the rope for the start. 7 steps, arc on the left lane, open."}
+{"n":476,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, north court. arc left open. 8 steps. The rope stays for the start."}
+{"n":477,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the rope at Last Light. Nobody past the north court. We start in 2 steps. Arc on the left lane, open."}
+{"n":478,"kind":"place","name":"Last Light north court","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Last Light north court. Matt keeps the rope for the start. 3 steps, arc on the left lane, open."}
