@@ -496,3 +496,6 @@
 {"n":496,"kind":"place","name":"Mast yard west escape","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Mast yard west escape. Ivo keeps the plywood for the start. 4 steps, arc on the left lane, open."}
 {"n":497,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, west escape. arc left open. 5 steps. The plywood stays for the start."}
 {"n":498,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the plywood at Mast yard. Nobody past the west escape. We start in 6 steps. Arc on the left lane, open."}
+{"n":499,"kind":"place","name":"Mast yard west escape","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Mast yard west escape. Bess keeps the plywood for the start. 7 steps, arc on the left lane, open."}
+{"n":500,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, west escape. arc left open. 8 steps. The plywood stays for the start."}
+{"n":501,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the plywood at Last Light. Nobody past the west escape. We start in 2 steps. Arc on the left lane, open."}
