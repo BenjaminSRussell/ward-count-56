@@ -886,3 +886,6 @@
 {"n":886,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the barrel at High line. Nobody past the north court. We start in 6 steps. Arc on the left lane, open."}
 {"n":887,"kind":"place","name":"High line north court","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"High line north court. Bess keeps the barrel for the start. 7 steps, arc on the left lane, open."}
 {"n":888,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, north court. arc left open. 8 steps. The barrel stays for the start."}
+{"n":889,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the crate at Ward gate. Nobody past the north court. We start in 2 steps. Arc on the left lane, open."}
+{"n":890,"kind":"place","name":"Ward gate north court","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Ward gate north court. Matt keeps the crate for the start. 3 steps, arc on the left lane, open."}
+{"n":891,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, north court. arc left open. 4 steps. The crate stays for the start."}
