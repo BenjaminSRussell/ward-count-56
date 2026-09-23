@@ -346,3 +346,6 @@
 {"n":346,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, north court. arc left open. 3 steps. The radio coil stays for the start."}
 {"n":347,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the radio coil at the pier. Nobody past the north court. We start in 4 steps. Arc on the left lane, open."}
 {"n":348,"kind":"place","name":"the pier north court","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"the pier north court. Ivo keeps the radio coil for the start. 5 steps, arc on the left lane, open."}
+{"n":349,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, north court. arc left open. 6 steps. The radio coil stays for the start."}
+{"n":350,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the radio coil at the pier. Nobody past the north court. We start in 7 steps. Arc on the left lane, open."}
+{"n":351,"kind":"place","name":"the pier north court","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"the pier north court. Bess keeps the radio coil for the start. 8 steps, arc on the left lane, open."}
