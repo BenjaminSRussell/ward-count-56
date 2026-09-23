@@ -324,3 +324,6 @@
 {"n":324,"kind":"place","name":"Last Light north court","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Last Light north court. Ivo keeps the radio coil for the start. 2 steps, arc on the left lane, open."}
 {"n":325,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Last Light, north court. arc left open. 3 steps. The radio coil stays for the start."}
 {"n":326,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the radio coil at Last Light. Nobody past the north court. We start in 4 steps. Arc on the left lane, open."}
+{"n":327,"kind":"place","name":"Last Light north court","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Last Light north court. Bess keeps the radio coil for the start. 5 steps, arc on the left lane, open."}
+{"n":328,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, north court. arc left open. 6 steps. The radio coil stays for the start."}
+{"n":329,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the radio coil at South stair. Nobody past the north court. We start in 7 steps. Arc on the left lane, open."}
