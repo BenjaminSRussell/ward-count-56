@@ -278,3 +278,6 @@
 {"n":278,"kind":"place","name":"the Underpass east court","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"the Underpass east court. Matt keeps the radio coil for the start. 7 steps, arc on the left lane, open."}
 {"n":279,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, east court. arc left open. 8 steps. The radio coil stays for the start."}
 {"n":280,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the radio coil at the Underpass. Nobody past the east court. We start in 2 steps. Arc on the left lane, open."}
+{"n":281,"kind":"place","name":"the Underpass east court","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"the Underpass east court. Nia keeps the radio coil for the start. 3 steps, arc on the left lane, open."}
+{"n":282,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, east court. arc left open. 4 steps. The radio coil stays for the start."}
+{"n":283,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the radio coil at the Underpass. Nobody past the east court. We start in 5 steps. Arc on the left lane, open."}
