@@ -868,3 +868,6 @@
 {"n":868,"kind":"place","name":"High line east court","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"High line east court. Ivo keeps the barrel for the start. 4 steps, arc on the left lane, open."}
 {"n":869,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, east court. arc left open. 5 steps. The barrel stays for the start."}
 {"n":870,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the barrel at High line. Nobody past the east court. We start in 6 steps. Arc on the left lane, open."}
+{"n":871,"kind":"place","name":"High line east court","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"High line east court. Bess keeps the barrel for the start. 7 steps, arc on the left lane, open."}
+{"n":872,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, east court. arc left open. 8 steps. The barrel stays for the start."}
+{"n":873,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the crate at Ward gate. Nobody past the east court. We start in 2 steps. Arc on the left lane, open."}
