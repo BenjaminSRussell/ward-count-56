@@ -353,3 +353,6 @@
 {"n":353,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, south court. arc left open. 8 steps. The radio coil stays for the start."}
 {"n":354,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the radio coil at South stair. Nobody past the south court. We start in 2 steps. Arc on the left lane, open."}
 {"n":355,"kind":"place","name":"South stair south court","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"South stair south court. Bess keeps the radio coil for the start. 3 steps, arc on the left lane, open."}
+{"n":356,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, south court. arc left open. 4 steps. The radio coil stays for the start."}
+{"n":357,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the radio coil at the pier. Nobody past the south court. We start in 5 steps. Arc on the left lane, open."}
+{"n":358,"kind":"place","name":"the pier south court","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"the pier south court. Matt keeps the radio coil for the start. 6 steps, arc on the left lane, open."}
