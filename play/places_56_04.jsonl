@@ -880,3 +880,6 @@
 {"n":880,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, south court. arc left open. 5 steps. The barrel stays for the start."}
 {"n":881,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the barrel at Drydock. Nobody past the south court. We start in 6 steps. Arc on the left lane, open."}
 {"n":882,"kind":"place","name":"Drydock south court","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Drydock south court. Matt keeps the barrel for the start. 7 steps, arc on the left lane, open."}
+{"n":883,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, south court. arc left open. 8 steps. The barrel stays for the start."}
+{"n":884,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the barrel at Drydock. Nobody past the south court. We start in 2 steps. Arc on the left lane, open."}
+{"n":885,"kind":"place","name":"Drydock south court","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Drydock south court. Nia keeps the barrel for the start. 3 steps, arc on the left lane, open."}
