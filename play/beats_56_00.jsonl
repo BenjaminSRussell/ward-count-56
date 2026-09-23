@@ -15,3 +15,6 @@
 {"n":15,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the drum at Drydock. Nobody past the west court. We start in 5 steps. Arc on the left lane, open."}
 {"n":16,"kind":"place","name":"Drydock west court","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Drydock west court. Ivo keeps the drum for the start. 6 steps, arc on the left lane, open."}
 {"n":17,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, west court. arc left open. 7 steps. The drum stays for the start."}
+{"n":18,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the drum at Drydock. Nobody past the west court. We start in 8 steps. Arc on the left lane, open."}
+{"n":19,"kind":"place","name":"Drydock west court","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Drydock west court. Bess keeps the drum for the start. 2 steps, arc on the left lane, open."}
+{"n":20,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, west court. arc left open. 3 steps. The drum stays for the start."}
