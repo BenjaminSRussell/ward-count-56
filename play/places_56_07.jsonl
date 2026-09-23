@@ -922,3 +922,6 @@
 {"n":922,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, west escape. arc left open. 2 steps. The awning stays for the start."}
 {"n":923,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the awning at High line. Nobody past the west escape. We start in 3 steps. Arc on the left lane, open."}
 {"n":924,"kind":"place","name":"High line west escape","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"High line west escape. Ivo keeps the awning for the start. 4 steps, arc on the left lane, open."}
+{"n":925,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, west escape. arc left open. 5 steps. The awning stays for the start."}
+{"n":926,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the awning at High line. Nobody past the west escape. We start in 6 steps. Arc on the left lane, open."}
+{"n":927,"kind":"place","name":"High line west escape","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"High line west escape. Bess keeps the awning for the start. 7 steps, arc on the left lane, open."}
