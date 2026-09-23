@@ -346,3 +346,6 @@
 {"n":346,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, east court. arc left open. 6 steps. The rebar stays for the start."}
 {"n":347,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the rebar at Switchyard. Nobody past the east court. We start in 7 steps. Arc on the left lane, open."}
 {"n":348,"kind":"place","name":"Switchyard east court","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Switchyard east court. Ivo keeps the rebar for the start. 8 steps, arc on the left lane, open."}
+{"n":349,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, east court. arc left open. 2 steps. The rebar stays for the start."}
+{"n":350,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the rebar at Switchyard. Nobody past the east court. We start in 3 steps. Arc on the left lane, open."}
+{"n":351,"kind":"place","name":"Switchyard east court","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Switchyard east court. Bess keeps the rebar for the start. 4 steps, arc on the left lane, open."}
