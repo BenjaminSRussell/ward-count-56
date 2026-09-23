@@ -761,3 +761,6 @@
 {"n":761,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, east escape. arc left open. 7 steps. The shutter stays for the start."}
 {"n":762,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the shutter at Drydock. Nobody past the east escape. We start in 8 steps. Arc on the left lane, open."}
 {"n":763,"kind":"place","name":"Drydock east escape","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Drydock east escape. Bess keeps the shutter for the start. 2 steps, arc on the left lane, open."}
+{"n":764,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, east escape. arc left open. 3 steps. The shutter stays for the start."}
+{"n":765,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the shutter at High line. Nobody past the east escape. We start in 4 steps. Arc on the left lane, open."}
+{"n":766,"kind":"place","name":"High line east escape","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"High line east escape. Matt keeps the shutter for the start. 5 steps, arc on the left lane, open."}
