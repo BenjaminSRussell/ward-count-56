@@ -512,3 +512,6 @@
 {"n":512,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, east escape. arc left open. 3 steps. The rope stays for the start."}
 {"n":513,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the rope at Mast yard. Nobody past the east escape. We start in 4 steps. Arc on the left lane, open."}
 {"n":514,"kind":"place","name":"Mast yard east escape","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Mast yard east escape. Matt keeps the rope for the start. 5 steps, arc on the left lane, open."}
+{"n":515,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, east escape. arc left open. 6 steps. The rope stays for the start."}
+{"n":516,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the rope at Mast yard. Nobody past the east escape. We start in 7 steps. Arc on the left lane, open."}
+{"n":517,"kind":"place","name":"Mast yard east escape","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Mast yard east escape. Nia keeps the rope for the start. 8 steps, arc on the left lane, open."}
