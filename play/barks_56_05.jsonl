@@ -209,3 +209,6 @@
 {"n":209,"kind":"place","name":"Switchyard south court","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Switchyard south court. Nia keeps the lamp for the start. 5 steps, arc on the left lane, open."}
 {"n":210,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, south court. arc left open. 6 steps. The lamp stays for the start."}
 {"n":211,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the lamp at Switchyard. Nobody past the south court. We start in 7 steps. Arc on the left lane, open."}
+{"n":212,"kind":"place","name":"Switchyard south court","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Switchyard south court. Ivo keeps the lamp for the start. 8 steps, arc on the left lane, open."}
+{"n":213,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, south court. arc left open. 2 steps. The lamp stays for the start."}
+{"n":214,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the lamp at Switchyard. Nobody past the south court. We start in 3 steps. Arc on the left lane, open."}
