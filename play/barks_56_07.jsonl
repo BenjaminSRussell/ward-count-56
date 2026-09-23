@@ -237,3 +237,6 @@
 {"n":237,"kind":"place","name":"Drydock west escape","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Drydock west escape. Nia keeps the lamp for the start. 3 steps, arc on the left lane, open."}
 {"n":238,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, west escape. arc left open. 4 steps. The lamp stays for the start."}
 {"n":239,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the lamp at Drydock. Nobody past the west escape. We start in 5 steps. Arc on the left lane, open."}
+{"n":240,"kind":"place","name":"Drydock west escape","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Drydock west escape. Ivo keeps the lamp for the start. 6 steps, arc on the left lane, open."}
+{"n":241,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, west escape. arc left open. 7 steps. The lamp stays for the start."}
+{"n":242,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the lamp at Drydock. Nobody past the west escape. We start in 8 steps. Arc on the left lane, open."}
