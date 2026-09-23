@@ -430,3 +430,6 @@
 {"n":430,"kind":"place","name":"the Underpass east court","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"the Underpass east court. Matt keeps the plywood for the start. 7 steps, arc on the left lane, open."}
 {"n":431,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, east court. arc left open. 8 steps. The plywood stays for the start."}
 {"n":432,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the plywood at the Underpass. Nobody past the east court. We start in 2 steps. Arc on the left lane, open."}
+{"n":433,"kind":"place","name":"the Underpass east court","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"the Underpass east court. Nia keeps the plywood for the start. 3 steps, arc on the left lane, open."}
+{"n":434,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, east court. arc left open. 4 steps. The plywood stays for the start."}
+{"n":435,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the plywood at the Underpass. Nobody past the east court. We start in 5 steps. Arc on the left lane, open."}
