@@ -545,3 +545,6 @@
 {"n":545,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, east escape. arc left open. 8 steps. The rope stays for the start."}
 {"n":546,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the rope at South stair. Nobody past the east escape. We start in 2 steps. Arc on the left lane, open."}
 {"n":547,"kind":"place","name":"South stair east escape","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"South stair east escape. Bess keeps the rope for the start. 3 steps, arc on the left lane, open."}
+{"n":548,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, east escape. arc left open. 4 steps. The rope stays for the start."}
+{"n":549,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the rope at the pier. Nobody past the east escape. We start in 5 steps. Arc on the left lane, open."}
+{"n":550,"kind":"place","name":"the pier east escape","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"the pier east escape. Matt keeps the rope for the start. 6 steps, arc on the left lane, open."}
