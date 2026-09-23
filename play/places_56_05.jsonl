@@ -408,3 +408,6 @@
 {"n":408,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, south court. arc left open. 8 steps. The rebar stays for the start."}
 {"n":409,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the rope at Ward gate. Nobody past the south court. We start in 2 steps. Arc on the left lane, open."}
 {"n":410,"kind":"place","name":"Ward gate south court","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Ward gate south court. Matt keeps the rope for the start. 3 steps, arc on the left lane, open."}
+{"n":411,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, south court. arc left open. 4 steps. The rope stays for the start."}
+{"n":412,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the rope at Ward gate. Nobody past the south court. We start in 5 steps. Arc on the left lane, open."}
+{"n":413,"kind":"place","name":"Ward gate south court","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Ward gate south court. Nia keeps the rope for the start. 6 steps, arc on the left lane, open."}
