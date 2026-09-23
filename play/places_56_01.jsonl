@@ -322,3 +322,6 @@
 {"n":322,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, east court. arc left open. 3 steps. The rebar stays for the start."}
 {"n":323,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the rebar at the pier. Nobody past the east court. We start in 4 steps. Arc on the left lane, open."}
 {"n":324,"kind":"place","name":"the pier east court","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"the pier east court. Ivo keeps the rebar for the start. 5 steps, arc on the left lane, open."}
+{"n":325,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, east court. arc left open. 6 steps. The rebar stays for the start."}
+{"n":326,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the rebar at the pier. Nobody past the east court. We start in 7 steps. Arc on the left lane, open."}
+{"n":327,"kind":"place","name":"the pier east court","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the pier east court. Bess keeps the rebar for the start. 8 steps, arc on the left lane, open."}
