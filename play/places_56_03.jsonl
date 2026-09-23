@@ -323,3 +323,6 @@
 {"n":323,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at South stair, north court. arc left open. 2 steps. The rebar stays for the start."}
 {"n":324,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the rebar at South stair. Nobody past the north court. We start in 3 steps. Arc on the left lane, open."}
 {"n":325,"kind":"place","name":"South stair north court","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"South stair north court. Nia keeps the rebar for the start. 4 steps, arc on the left lane, open."}
+{"n":326,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, north court. arc left open. 5 steps. The rebar stays for the start."}
+{"n":327,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the rebar at South stair. Nobody past the north court. We start in 6 steps. Arc on the left lane, open."}
+{"n":328,"kind":"place","name":"South stair north court","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"South stair north court. Ivo keeps the rebar for the start. 7 steps, arc on the left lane, open."}
