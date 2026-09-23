@@ -728,3 +728,6 @@
 {"n":728,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the shutter at Switchyard. Nobody past the west escape. We start in 4 steps. Arc on the left lane, open."}
 {"n":729,"kind":"place","name":"Switchyard west escape","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Switchyard west escape. Nia keeps the shutter for the start. 5 steps, arc on the left lane, open."}
 {"n":730,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, west escape. arc left open. 6 steps. The shutter stays for the start."}
+{"n":731,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the shutter at Switchyard. Nobody past the west escape. We start in 7 steps. Arc on the left lane, open."}
+{"n":732,"kind":"place","name":"Switchyard west escape","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Switchyard west escape. Ivo keeps the shutter for the start. 8 steps, arc on the left lane, open."}
+{"n":733,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, west escape. arc left open. 2 steps. The shutter stays for the start."}
