@@ -992,3 +992,6 @@
 {"n":992,"kind":"place","name":"Mast yard south court","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Mast yard south court. Ivo keeps the drum for the start. 4 steps, arc on the left lane, open."}
 {"n":993,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, south court. arc left open. 5 steps. The drum stays for the start."}
 {"n":994,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the drum at Mast yard. Nobody past the south court. We start in 6 steps. Arc on the left lane, open."}
+{"n":995,"kind":"place","name":"Mast yard south court","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Mast yard south court. Bess keeps the drum for the start. 7 steps, arc on the left lane, open."}
+{"n":996,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, south court. arc left open. 8 steps. The drum stays for the start."}
+{"n":997,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the drum at Last Light. Nobody past the south court. We start in 2 steps. Arc on the left lane, open."}
