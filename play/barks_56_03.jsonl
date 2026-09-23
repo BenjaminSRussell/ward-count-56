@@ -289,3 +289,6 @@
 {"n":289,"kind":"place","name":"the Underpass north court","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"the Underpass north court. Nia keeps the rebar for the start. 3 steps, arc on the left lane, open."}
 {"n":290,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, north court. arc left open. 4 steps. The rebar stays for the start."}
 {"n":291,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the rebar at the Underpass. Nobody past the north court. We start in 5 steps. Arc on the left lane, open."}
+{"n":292,"kind":"place","name":"the Underpass north court","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"the Underpass north court. Ivo keeps the rebar for the start. 6 steps, arc on the left lane, open."}
+{"n":293,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, north court. arc left open. 7 steps. The rebar stays for the start."}
+{"n":294,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the rebar at the Underpass. Nobody past the north court. We start in 8 steps. Arc on the left lane, open."}
